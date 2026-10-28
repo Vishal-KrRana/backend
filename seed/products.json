@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Trial product 1",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "name": "Trial product 2",
+    "price": 199.99
+  }, {
+    "id": 3,
+    "name": "Trial product 3",
+    "price": 69.99
+  }, {
+    "id": 4,
+    "name": "Trial product 4",
+    "price": 169.99
+  }, {
+    "id": 5,
+    "name": "Trial product 5",
+    "price": 9.99
+  }
+]
